@@ -1,0 +1,6 @@
+crewai>=1.0.0
+crewai-tools
+anthropic
+openai
+python-dotenv
+requests
